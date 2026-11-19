@@ -81,7 +81,7 @@ Why must you never commit a password, even if you remove it later?
 
 **What I still do not understand:**
 
-2026-11-10, Day 3: GitHub
+2026-11-10, Day 4: GitHub
 
 Step 1: Creating a GitHub Repository
 - I created a public GitHub repository named `my-first-repo` while leaving the README and `.gitignore` options unchecked.
@@ -111,6 +111,26 @@ What must never be pushed to a public repo?
 - Secrets, such as passwords or any personal data, must not be pushed to a public repo because even if you delete them, the commit history will still show them.
 What does "rejected, fetch first" mean and how do you fix it?
 - The "rejected, fetch first" error means that the remote repository contains changes that are not yet present in your local repository. You need to fetch and integrate the latest changes before pushing your commits.
+**What went wrong and how I fixed it:**
+
+**What I changed or tried beyond the instructions:**
+
+**What I still do not understand:**
+
+2026-11-10, Day 5: HTML
+**What I built:**
+
+**Answers to the Check yourself questions:**
+What is the difference between a tag, an element and an attribute?
+- Tag is the <> that tell the browser what is it, element are the whole line from opening tag to closing tag, and  an attribute is the extra information you add inside the opening tag to tell the browser what it is specifically.
+Which tags create a link, an image, a list and a table?
+- <a> create a link, <img> is the tag that create image, <ul>, <ol>, <li> are the tag for list and <td>, <tr>, and <table> are the tag used for creation of table.
+Why does an image need alt?
+- alt is necessary especially for screen reader because it serve as a description that says what is that img when the image failed to load.
+Why choose headings by meaning and not by size?
+- Because the main use of headings are literally just for telling the visitors what the website and each sections are all about.
+What is a semantic element? Name three.
+- Semantic element are the specific tag that tell us the specific section of the website is for. Three of the most common semantic elements are <main>, <header>, and <footer>.
 **What went wrong and how I fixed it:**
 
 **What I changed or tried beyond the instructions:**
